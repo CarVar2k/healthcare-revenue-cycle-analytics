@@ -1,11 +1,7 @@
 # Healthcare Revenue Cycle Analytics
 ### 1. Project Overview
 
-This project simulates the responsibilities of a Revenue Cycle Data Analyst working for Virginia Rehabilitation Network (VRN), a fictional multi-location outpatient rehabilitation organization operating five clinics across Northern Virginia.
-
-The analysis focuses on evaluating healthcare revenue cycle performance, identifying financial inefficiencies, and developing data-driven recommendations to improve reimbursement and collections.
-
-The project uses publicly available healthcare datasets alongside clearly documented synthetic operational data to simulate healthcare claims processing, insurance reimbursement, claim denials, and accounts receivable management.
+This project simulates the responsibilities of a Revenue Cycle Data Analyst working for Virginia Rehabilitation Network (VRN), a fictional multi-location outpatient rehabilitation organization operating five clinics across Northern Virginia. The analysis focuses on evaluating healthcare revenue cycle performance, identifying financial inefficiencies, and developing data-driven recommendations to improve reimbursement and collections. The project uses publicly available healthcare datasets alongside clearly documented synthetic operational data to simulate healthcare claims processing, insurance reimbursement, claim denials, and accounts receivable management.
 
 ### 2. Business Problem
 
