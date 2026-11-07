@@ -63,7 +63,7 @@ All synthetic records, assumptions, transformations, and limitations will be doc
 - Business findings and recommendations report.
 - Published GitHub portfolio repository.
 
-### 7. Project Success Criteria
+### 7. Project Success Outcomes
 
 The project will be considered successful when the final analysis:
 
