@@ -5,7 +5,7 @@ This project simulates the responsibilities of a Revenue Cycle Data Analyst work
 
 ### 2. Business Problem
 
-VRRN leadership has identified potential inefficiencies in its revenue cycle operations, including:
+VRN leadership has identified potential inefficiencies in its revenue cycle operations, including:
 
 - High insurance claim denial rates.
 - Delays in insurance reimbursement.
